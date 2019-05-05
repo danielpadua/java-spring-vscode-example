@@ -1,4 +1,4 @@
-package br.com.danielpadua.javaspringvscodeexample;
+package br.com.danielpadua.java_spring_vscode_example;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class DemoApplicationTests {
+public class ExampleApplicationTests {
 
 	@Test
 	public void contextLoads() {

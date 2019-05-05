@@ -1,4 +1,4 @@
-package br.com.danielpadua.javaspringvscodeexample.controllers;
+package br.com.danielpadua.java_spring_vscode_example.controllers;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -18,4 +18,5 @@ public class ExampleController {
 	public ResponseEntity<String> get() {
 		return ResponseEntity.ok("Hello World!");
 	}
+
 }
